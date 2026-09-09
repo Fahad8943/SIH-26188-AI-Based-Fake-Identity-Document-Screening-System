@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pillow
+pytesseract
+opencv-python
+numpy
+scikit-learn
+python-multipart
+exifread
+requests
+reportlab
+python-dotenv
